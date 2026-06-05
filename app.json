@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "myapp",
+    "slug": "myapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+
+    "scheme": "com.aerogenixapp",
+
+    "userInterfaceStyle": "automatic",
+
+    "android": {
+      "package": "com.aerogenixapp",
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE"
+      }
+    },
+
+    "plugins": [
+      "expo-router"
+    ],
+
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

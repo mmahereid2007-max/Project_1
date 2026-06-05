@@ -1,0 +1,108 @@
+{
+  "project_info": {
+    "project_number": "945561274688",
+    "project_id": "vawta-77ee5",
+    "storage_bucket": "vawta-77ee5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945561274688:android:4980cfc4e9a2632ef512a5",
+        "android_client_info": {
+          "package_name": "com.aerogenixapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945561274688-i6kosi0c129dob82hu6hmgpq0rghpsk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aerogenixapp",
+            "certificate_hash": "660c1419fd858f1af4079207ba52fd89fc3a172a"
+          }
+        },
+        {
+          "client_id": "945561274688-uhg05h7brhnoeqv3usv8alaunsi7k388.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aerogenixapp",
+            "certificate_hash": "5e6add74ffe573e69d194c9e9cc0c7416f395d84"
+          }
+        },
+        {
+          "client_id": "945561274688-uvnaecpe5g8c8veo48jd6q7fpiod68rm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aerogenixapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "945561274688-s6rkj08i3rfn9sok49bkdcmacaa12u76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSi6pdmF8RGQW_IEUqUbes78IGQsg5wt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945561274688-s6rkj08i3rfn9sok49bkdcmacaa12u76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945561274688:android:3af41dfe3b7c7c5df512a5",
+        "android_client_info": {
+          "package_name": "com.vawtapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945561274688-0iehrr3ars3bmt7somqv18vme9vl21sc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vawtapp",
+            "certificate_hash": "660c1419fd858f1af4079207ba52fd89fc3a172a"
+          }
+        },
+        {
+          "client_id": "945561274688-pb2kfmelonf7tb2la04qq21pf3qkpbj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vawtapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "945561274688-s6rkj08i3rfn9sok49bkdcmacaa12u76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSi6pdmF8RGQW_IEUqUbes78IGQsg5wt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945561274688-s6rkj08i3rfn9sok49bkdcmacaa12u76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
